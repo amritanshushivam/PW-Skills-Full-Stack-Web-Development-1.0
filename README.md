@@ -1,4 +1,5 @@
-PW Skills Full Stack Web Development 1.0 🚀
+🚀 PW Skills Full Stack Web Development 1.0
+
 Welcome to the PW Skills Full Stack Web Development 1.0 repository! This repository contains all the learning resources, projects, assignments, and code implementations from the PW Skills Full Stack Web Development Course.
 
 This course provides comprehensive training in full-stack development, covering everything from frontend UI design to backend development, databases, and deployment strategies.
