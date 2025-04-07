@@ -49,18 +49,21 @@ This repository includes:
 ✔️ Work with real-world projects to gain practical experience
 
 🚀 How to Use This Repository?
+
 1️⃣ Clone the repository to your local machine:
 
 bash
 Copy
 Edit
 git clone https://github.com/amritanshushivam/PW-Skills-Full-Stack-Web-Development-1.0.git
+
 2️⃣ Navigate into the project folder:
 
 bash
 Copy
 Edit
 cd PW-Skills-Full-Stack-Web-Development-1.0
+
 3️⃣ Open in your favorite code editor and start exploring!
 
 📢 Contribution & Feedback
